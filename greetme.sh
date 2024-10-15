@@ -1,5 +1,5 @@
 #!/bin/bash
-# auteur: melek homrani
+# auteur: Areej w Aziz
 # nom du script: greetme.sh
 # but: afficher des informations système et un message d'adieu
 
