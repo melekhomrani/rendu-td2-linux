@@ -1,7 +1,4 @@
 #!/bin/bash
-# auteur: melek homrani
-# nom du script: peutVoter.sh
-# but: déterminer si une personne peut voter en fonction de son âge
 
 voter() {
   local nom=$1
