@@ -1,4 +1,4 @@
-#NOTE: DOCX file should be uploaded fl blackbox
+# NOTE: DOCX file should be uploaded fl blackbox
 
 # Unix Administration Scripts
 
