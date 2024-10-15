@@ -1,3 +1,5 @@
+#NOTE: DOCX file should be uploaded fl blackbox
+
 # Unix Administration Scripts
 
 correction TD2
