@@ -1,6 +1,6 @@
 # Unix Administration Scripts
 
-This repository contains several useful Unix shell scripts for performing system-related tasks, including counting images, validating voting eligibility, and extracting specific information from text files.
+correction TD2
 
 ## Scripts Overview
 
